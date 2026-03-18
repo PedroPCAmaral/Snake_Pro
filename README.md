@@ -76,7 +76,7 @@ JavaScript (Vanilla JS)
 
 Baixe ou clone o repositório:
 
-git clone https://github.com/seu-usuario/snake-pro.git
+git clone https://github.com/PedroPCAmaral/Snake_Pro/
 
 
 Abra o arquivo:
