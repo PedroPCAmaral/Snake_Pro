@@ -1,0 +1,32 @@
+body{
+    background:#111;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+}
+
+canvas{
+    background:black;
+    border:3px solid lime;
+    margin:10px;
+}
+
+#painel{
+    display:flex;
+    justify-content:space-around;
+    width:400px;
+    margin:auto;
+    font-size:18px;
+}
+
+button{
+    padding:10px;
+    background:lime;
+    border:none;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+li{
+    list-style:none;
+}
