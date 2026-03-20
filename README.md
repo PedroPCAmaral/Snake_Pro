@@ -116,8 +116,25 @@ Evoluir estrutura de código JavaScript
 
 👨‍💻 Autor
 
+Outros Jogos
+
+-jogo onde o computador gera um número aleatório de 1 a 20, e o usuário 
+precisa adivinhar qual é
+
+-jogo de Pedra, Papel ou Tesoura
+
+-tabuada desse número de 1 a 10 no formato de uma tabela
+
+-programa que desenha um triângulo de asteriscos (*) no console, onde o 
+número de linhas é especificado pelo usuário
+
+- Escreva um programa para encontrar a soma da série 1 + 11 + 111 + ... n termos.
+
+
+
+
 Pedro Paulo Costa do Amaral
 
 📄 Licença
 
-Este projeto é de uso livre para fins educacionais.
+
