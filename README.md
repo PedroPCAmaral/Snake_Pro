@@ -128,7 +128,7 @@ precisa adivinhar qual é
 -programa que desenha um triângulo de asteriscos (*) no console, onde o 
 número de linhas é especificado pelo usuário
 
-- Escreva um programa para encontrar a soma da série 1 + 11 + 111 + ... n termos.
+-Escreva um programa para encontrar a soma da série 1 + 11 + 111 + ... n termos.
 
 
 
